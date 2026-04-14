@@ -49,25 +49,7 @@ This project demonstrates how to efficiently import external employee data into 
 - **Dot Walking** – `Assigned to.department`, `Assigned to.email`, `Assigned to.manager`
 - **sys_user table** integration with **Incident table**
 
----
 
-## Repository Structure
-
-```
-📦 Root
- ┣ 📄 README.md
- ┣ 📁 documents/
- ┃ ┣ 📄 Mohanraj_V_Task1_Create_Records_in_Sheet.md
- ┃ ┣ 📄 Bharathi_P_Task2_Creating_Import_Table.md
- ┃ ┣ 📄 Bharathi_P_Task3_Create_Transform_Map.md
- ┃ ┣ 📄 Mohanraj_V_Task4_Match_Fields_using_Mapping_Assist.md
- ┃ ┣ 📄 Arjun_C_Task5_Transform_the_Data.md
- ┃ ┣ 📄 Bharathi_P_Task6_Display_Department_to_Assigned_To.md
- ┃ ┣ 📄 Sribalaji_G_Task7_Result.md
- ┃ ┗ 📄 Hithesh_K_Task8_Conclusion.md
- ┗ 📁 screenshots/
-     ┗ (All task screenshots)
-```
 
 ---
 
